@@ -1440,6 +1440,12 @@ This is literally every single emoji done with a
 | :party-zipper_mouth_face: | ![:party-zipper_mouth_face:](./emoji/party-zipper_mouth_face.png) |
 | :party-zzz: | ![:party-zzz:](./emoji/party-zzz.png) |
 
+## Create your own!
+
+```bash
+$ npx party-everything input.png output.png
+```
+
 ## Todo
 
 - Improve automatic naming

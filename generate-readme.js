@@ -22,6 +22,12 @@ ${glob
     .map(e => `| :${basename(e, '.png')}: | ![:${basename(e, '.png')}:](${e}) |`)
     .join('\n')}
 
+## Create your own!
+
+\`\`\`bash
+$ npx party-everything input.png output.png
+\`\`\`
+
 ## Todo
 
 - Improve automatic naming

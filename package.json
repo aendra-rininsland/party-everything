@@ -1,8 +1,11 @@
 {
   "name": "parrot-everything",
   "version": "1.0.0",
-  "description": "",
+  "description": "All the emoji.",
   "main": "index.js",
+  "bin": {
+    "partyizer": "bin/partyizer.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "extract": "git clone https://github.com/github/gemoji.git; cd gemoji; bundle install; bundle exec gemoji extract ../sources",
@@ -10,12 +13,13 @@
     "start": "npm run extract && node index.js && node generate-readme.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ændrew Rininsland <aendrew@aendrew.com> (https://www.aendrew.com)",
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.2.0",
     "d3-color": "^1.2.3",
     "glob": "^7.1.3",
+    "meow": "^5.0.0",
     "upng-js": "^2.1.0"
   },
   "devDependencies": {

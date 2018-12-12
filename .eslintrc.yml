@@ -1,2 +1,4 @@
 extends: "airbnb-base"
 root: true
+rules:
+  no-restricted-syntax: 0
