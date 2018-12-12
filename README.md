@@ -6,7 +6,7 @@ This is literally every single emoji done with a
 ## Emoji Table
 
 |     shortcode     |  preview  |
----------------------------------
+|-------------------|-----------|
 | :party--1: | ![:party--1:](./emoji/party--1.png) |
 | :party-+1: | ![:party-+1:](./emoji/party-+1.png) |
 | :party-100: | ![:party-100:](./emoji/party-100.png) |

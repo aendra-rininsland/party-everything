@@ -16,7 +16,7 @@ This is literally every single emoji done with a
 ## Emoji Table
 
 |     shortcode     |  preview  |
----------------------------------
+|-------------------|-----------|
 ${glob
     .sync('./emoji/*.png')
     .map(e => `| :${basename(e, '.png')}: | ![:${basename(e, '.png')}:](${e}) |`)
