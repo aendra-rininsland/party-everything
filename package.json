@@ -1,6 +1,6 @@
 {
   "name": "party-everything",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All the emoji.",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "extract": "git clone https://github.com/github/gemoji.git; cd gemoji; bundle install; bundle exec gemoji extract ../sources",
     "generate-readme": "node generate-readme.js",
-    "start": "npm run extract && node index.js && node generate-readme.js"
+    "start": "npm run extract && node index.js && node generate-readme.js",
+    "import-slack": "slack-emoji-import ./emojipack.yaml"
   },
   "keywords": [],
   "author": "Ændrew Rininsland <aendrew@aendrew.com> (https://www.aendrew.com)",
@@ -20,6 +21,7 @@
     "d3-color": "^1.2.3",
     "glob": "^7.1.3",
     "meow": "^5.0.0",
+    "slack-emoji-import": "^1.0.3",
     "upng-js": "^2.1.0"
   },
   "devDependencies": {

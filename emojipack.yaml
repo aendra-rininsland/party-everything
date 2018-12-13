@@ -1,0 +1,2664 @@
+title: party-everything
+emojis:
+  - name: party--1
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party--1.png
+  - name: party-+1
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-+1.png
+  - name: party-100
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-100.png
+  - name: party-1234
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-1234.png
+  - name: party-26F9-2640
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-26F9-2640.png
+  - name: party-8ball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-8ball.png
+  - name: party-a
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-a.png
+  - name: party-ab
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ab.png
+  - name: party-abc
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-abc.png
+  - name: party-abcd
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-abcd.png
+  - name: party-accept
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-accept.png
+  - name: party-admission_tickets
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-admission_tickets.png
+  - name: party-aerial_tramway
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-aerial_tramway.png
+  - name: party-airplane_arriving
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-airplane_arriving.png
+  - name: party-airplane_departure
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-airplane_departure.png
+  - name: party-airplane
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-airplane.png
+  - name: party-alarm_clock
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-alarm_clock.png
+  - name: party-alembic
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-alembic.png
+  - name: party-alien
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-alien.png
+  - name: party-ambulance
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ambulance.png
+  - name: party-amphora
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-amphora.png
+  - name: party-anchor
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-anchor.png
+  - name: party-angel
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-angel.png
+  - name: party-anger
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-anger.png
+  - name: party-angry
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-angry.png
+  - name: party-anguished
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-anguished.png
+  - name: party-ant
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ant.png
+  - name: party-apple
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-apple.png
+  - name: party-aquarius
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-aquarius.png
+  - name: party-aries
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-aries.png
+  - name: party-arrow_backward
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_backward.png
+  - name: party-arrow_double_down
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_double_down.png
+  - name: party-arrow_double_up
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_double_up.png
+  - name: party-arrow_down_small
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_down_small.png
+  - name: party-arrow_down
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_down.png
+  - name: party-arrow_forward
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_forward.png
+  - name: party-arrow_heading_down
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_heading_down.png
+  - name: party-arrow_heading_up
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_heading_up.png
+  - name: party-arrow_left
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_left.png
+  - name: party-arrow_lower_left
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_lower_left.png
+  - name: party-arrow_lower_right
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_lower_right.png
+  - name: party-arrow_right_hook
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_right_hook.png
+  - name: party-arrow_right
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_right.png
+  - name: party-arrow_up_down
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_up_down.png
+  - name: party-arrow_up_small
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_up_small.png
+  - name: party-arrow_up
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_up.png
+  - name: party-arrow_upper_left
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_upper_left.png
+  - name: party-arrow_upper_right
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrow_upper_right.png
+  - name: party-arrows_clockwise
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrows_clockwise.png
+  - name: party-arrows_counterclockwise
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-arrows_counterclockwise.png
+  - name: party-art
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-art.png
+  - name: party-articulated_lorry
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-articulated_lorry.png
+  - name: party-astonished
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-astonished.png
+  - name: party-athletic_shoe
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-athletic_shoe.png
+  - name: party-atm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-atm.png
+  - name: party-atom_symbol
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-atom_symbol.png
+  - name: party-avocado
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-avocado.png
+  - name: party-b
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-b.png
+  - name: party-baby_bottle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-baby_bottle.png
+  - name: party-baby_chick
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-baby_chick.png
+  - name: party-baby_symbol
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-baby_symbol.png
+  - name: party-baby
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-baby.png
+  - name: party-back
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-back.png
+  - name: party-bacon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bacon.png
+  - name: party-badminton_racquet_and_shuttlecock
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-badminton_racquet_and_shuttlecock.png
+  - name: party-baggage_claim
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-baggage_claim.png
+  - name: party-baguette_bread
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-baguette_bread.png
+  - name: party-balloon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-balloon.png
+  - name: party-ballot_box_with_ballot
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ballot_box_with_ballot.png
+  - name: party-ballot_box_with_check
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ballot_box_with_check.png
+  - name: party-bamboo
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bamboo.png
+  - name: party-banana
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-banana.png
+  - name: party-bangbang
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bangbang.png
+  - name: party-bank
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bank.png
+  - name: party-bar_chart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bar_chart.png
+  - name: party-barber
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-barber.png
+  - name: party-barely_sunny
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-barely_sunny.png
+  - name: party-baseball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-baseball.png
+  - name: party-basketball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-basketball.png
+  - name: party-bat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bat.png
+  - name: party-bath
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bath.png
+  - name: party-bathtub
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bathtub.png
+  - name: party-battery
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-battery.png
+  - name: party-beach_with_umbrella
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-beach_with_umbrella.png
+  - name: party-bear
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bear.png
+  - name: party-bed
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bed.png
+  - name: party-bee
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bee.png
+  - name: party-beer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-beer.png
+  - name: party-beers
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-beers.png
+  - name: party-beetle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-beetle.png
+  - name: party-beginner
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-beginner.png
+  - name: party-bell
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bell.png
+  - name: party-bellhop_bell
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bellhop_bell.png
+  - name: party-bento
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bento.png
+  - name: party-bicyclist
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bicyclist.png
+  - name: party-bike
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bike.png
+  - name: party-bikini
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bikini.png
+  - name: party-biohazard_sign
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-biohazard_sign.png
+  - name: party-bird
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bird.png
+  - name: party-birthday
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-birthday.png
+  - name: party-black_circle_for_record
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_circle_for_record.png
+  - name: party-black_circle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_circle.png
+  - name: party-black_heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_heart.png
+  - name: party-black_joker
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_joker.png
+  - name: party-black_large_square
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_large_square.png
+  - name: party-black_left_pointing_double_triangle_with_vertical_bar
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_left_pointing_double_triangle_with_vertical_bar.png
+  - name: party-black_medium_small_square
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_medium_small_square.png
+  - name: party-black_medium_square
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_medium_square.png
+  - name: party-black_nib
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_nib.png
+  - name: party-black_right_pointing_double_triangle_with_vertical_bar
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_right_pointing_double_triangle_with_vertical_bar.png
+  - name: party-black_right_pointing_triangle_with_double_vertical_bar
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_right_pointing_triangle_with_double_vertical_bar.png
+  - name: party-black_small_square
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_small_square.png
+  - name: party-black_square_button
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_square_button.png
+  - name: party-black_square_for_stop
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-black_square_for_stop.png
+  - name: party-blossom
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-blossom.png
+  - name: party-blowfish
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-blowfish.png
+  - name: party-blue_book
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-blue_book.png
+  - name: party-blue_car
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-blue_car.png
+  - name: party-blue_heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-blue_heart.png
+  - name: party-blush
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-blush.png
+  - name: party-boar
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-boar.png
+  - name: party-boat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-boat.png
+  - name: party-bomb
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bomb.png
+  - name: party-book
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-book.png
+  - name: party-bookmark_tabs
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bookmark_tabs.png
+  - name: party-bookmark
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bookmark.png
+  - name: party-books
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-books.png
+  - name: party-boom
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-boom.png
+  - name: party-boot
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-boot.png
+  - name: party-bouquet
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bouquet.png
+  - name: party-bow_and_arrow
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bow_and_arrow.png
+  - name: party-bow
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bow.png
+  - name: party-bowling
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bowling.png
+  - name: party-boxing_glove
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-boxing_glove.png
+  - name: party-boy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-boy.png
+  - name: party-bread
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bread.png
+  - name: party-bride_with_veil
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bride_with_veil.png
+  - name: party-bridge_at_night
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bridge_at_night.png
+  - name: party-briefcase
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-briefcase.png
+  - name: party-broken_heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-broken_heart.png
+  - name: party-bug
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bug.png
+  - name: party-building_construction
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-building_construction.png
+  - name: party-bulb
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bulb.png
+  - name: party-bullettrain_front
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bullettrain_front.png
+  - name: party-bullettrain_side
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bullettrain_side.png
+  - name: party-burrito
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-burrito.png
+  - name: party-bus
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bus.png
+  - name: party-busstop
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-busstop.png
+  - name: party-bust_in_silhouette
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-bust_in_silhouette.png
+  - name: party-busts_in_silhouette
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-busts_in_silhouette.png
+  - name: party-butterfly
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-butterfly.png
+  - name: party-cactus
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cactus.png
+  - name: party-cake
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cake.png
+  - name: party-calendar
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-calendar.png
+  - name: party-call_me_hand
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-call_me_hand.png
+  - name: party-calling
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-calling.png
+  - name: party-camel
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-camel.png
+  - name: party-camera_with_flash
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-camera_with_flash.png
+  - name: party-camera
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-camera.png
+  - name: party-camping
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-camping.png
+  - name: party-cancer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cancer.png
+  - name: party-candle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-candle.png
+  - name: party-candy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-candy.png
+  - name: party-canoe
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-canoe.png
+  - name: party-capital_abcd
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-capital_abcd.png
+  - name: party-capricorn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-capricorn.png
+  - name: party-car
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-car.png
+  - name: party-card_file_box
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-card_file_box.png
+  - name: party-card_index_dividers
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-card_index_dividers.png
+  - name: party-card_index
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-card_index.png
+  - name: party-carousel_horse
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-carousel_horse.png
+  - name: party-carrot
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-carrot.png
+  - name: party-cat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cat.png
+  - name: party-cat2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cat2.png
+  - name: party-cd
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cd.png
+  - name: party-chains
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-chains.png
+  - name: party-champagne
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-champagne.png
+  - name: party-chart_with_downwards_trend
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-chart_with_downwards_trend.png
+  - name: party-chart_with_upwards_trend
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-chart_with_upwards_trend.png
+  - name: party-chart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-chart.png
+  - name: party-checkered_flag
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-checkered_flag.png
+  - name: party-cheese_wedge
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cheese_wedge.png
+  - name: party-cherries
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cherries.png
+  - name: party-cherry_blossom
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cherry_blossom.png
+  - name: party-chestnut
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-chestnut.png
+  - name: party-chicken
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-chicken.png
+  - name: party-children_crossing
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-children_crossing.png
+  - name: party-chipmunk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-chipmunk.png
+  - name: party-chocolate_bar
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-chocolate_bar.png
+  - name: party-christmas_tree
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-christmas_tree.png
+  - name: party-church
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-church.png
+  - name: party-cinema
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cinema.png
+  - name: party-circus_tent
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-circus_tent.png
+  - name: party-city_sunrise
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-city_sunrise.png
+  - name: party-city_sunset
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-city_sunset.png
+  - name: party-cityscape
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cityscape.png
+  - name: party-cl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cl.png
+  - name: party-clap
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clap.png
+  - name: party-clapper
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clapper.png
+  - name: party-classical_building
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-classical_building.png
+  - name: party-clinking_glasses
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clinking_glasses.png
+  - name: party-clipboard
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clipboard.png
+  - name: party-clock1
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock1.png
+  - name: party-clock10
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock10.png
+  - name: party-clock1030
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock1030.png
+  - name: party-clock11
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock11.png
+  - name: party-clock1130
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock1130.png
+  - name: party-clock12
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock12.png
+  - name: party-clock1230
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock1230.png
+  - name: party-clock130
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock130.png
+  - name: party-clock2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock2.png
+  - name: party-clock230
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock230.png
+  - name: party-clock3
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock3.png
+  - name: party-clock330
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock330.png
+  - name: party-clock4
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock4.png
+  - name: party-clock430
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock430.png
+  - name: party-clock5
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock5.png
+  - name: party-clock530
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock530.png
+  - name: party-clock6
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock6.png
+  - name: party-clock630
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock630.png
+  - name: party-clock7
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock7.png
+  - name: party-clock730
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock730.png
+  - name: party-clock8
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock8.png
+  - name: party-clock830
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock830.png
+  - name: party-clock9
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock9.png
+  - name: party-clock930
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clock930.png
+  - name: party-closed_book
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-closed_book.png
+  - name: party-closed_lock_with_key
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-closed_lock_with_key.png
+  - name: party-closed_umbrella
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-closed_umbrella.png
+  - name: party-cloud
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cloud.png
+  - name: party-clown_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clown_face.png
+  - name: party-clubs
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-clubs.png
+  - name: party-cn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cn.png
+  - name: party-cocktail
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cocktail.png
+  - name: party-coffee
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-coffee.png
+  - name: party-coffin
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-coffin.png
+  - name: party-cold_sweat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cold_sweat.png
+  - name: party-comet
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-comet.png
+  - name: party-compression
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-compression.png
+  - name: party-computer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-computer.png
+  - name: party-confetti_ball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-confetti_ball.png
+  - name: party-confounded
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-confounded.png
+  - name: party-confused
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-confused.png
+  - name: party-congratulations
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-congratulations.png
+  - name: party-construction_worker
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-construction_worker.png
+  - name: party-construction
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-construction.png
+  - name: party-control_knobs
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-control_knobs.png
+  - name: party-convenience_store
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-convenience_store.png
+  - name: party-cookie
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cookie.png
+  - name: party-cool
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cool.png
+  - name: party-cop
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cop.png
+  - name: party-copyright
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-copyright.png
+  - name: party-corn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-corn.png
+  - name: party-couch_and_lamp
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-couch_and_lamp.png
+  - name: party-couple_with_heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-couple_with_heart.png
+  - name: party-couple
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-couple.png
+  - name: party-couplekiss
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-couplekiss.png
+  - name: party-cow
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cow.png
+  - name: party-cow2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cow2.png
+  - name: party-crab
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-crab.png
+  - name: party-credit_card
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-credit_card.png
+  - name: party-crescent_moon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-crescent_moon.png
+  - name: party-cricket_bat_and_ball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cricket_bat_and_ball.png
+  - name: party-crocodile
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-crocodile.png
+  - name: party-croissant
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-croissant.png
+  - name: party-crossed_fingers
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-crossed_fingers.png
+  - name: party-crossed_flags
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-crossed_flags.png
+  - name: party-crossed_swords
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-crossed_swords.png
+  - name: party-crown
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-crown.png
+  - name: party-cry
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cry.png
+  - name: party-crying_cat_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-crying_cat_face.png
+  - name: party-crystal_ball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-crystal_ball.png
+  - name: party-cucumber
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cucumber.png
+  - name: party-cupid
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cupid.png
+  - name: party-curly_loop
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-curly_loop.png
+  - name: party-currency_exchange
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-currency_exchange.png
+  - name: party-curry
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-curry.png
+  - name: party-custard
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-custard.png
+  - name: party-customs
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-customs.png
+  - name: party-cyclone
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-cyclone.png
+  - name: party-dagger_knife
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dagger_knife.png
+  - name: party-dancer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dancer.png
+  - name: party-dancers
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dancers.png
+  - name: party-dango
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dango.png
+  - name: party-dark_sunglasses
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dark_sunglasses.png
+  - name: party-dart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dart.png
+  - name: party-dash
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dash.png
+  - name: party-date
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-date.png
+  - name: party-de
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-de.png
+  - name: party-deciduous_tree
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-deciduous_tree.png
+  - name: party-deer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-deer.png
+  - name: party-department_store
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-department_store.png
+  - name: party-derelict_house_building
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-derelict_house_building.png
+  - name: party-desert_island
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-desert_island.png
+  - name: party-desert
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-desert.png
+  - name: party-desktop_computer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-desktop_computer.png
+  - name: party-diamond_shape_with_a_dot_inside
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-diamond_shape_with_a_dot_inside.png
+  - name: party-diamonds
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-diamonds.png
+  - name: party-disappointed_relieved
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-disappointed_relieved.png
+  - name: party-disappointed
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-disappointed.png
+  - name: party-dizzy_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dizzy_face.png
+  - name: party-dizzy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dizzy.png
+  - name: party-do_not_litter
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-do_not_litter.png
+  - name: party-dog
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dog.png
+  - name: party-dog2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dog2.png
+  - name: party-dollar
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dollar.png
+  - name: party-dolls
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dolls.png
+  - name: party-dolphin
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dolphin.png
+  - name: party-door
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-door.png
+  - name: party-double_vertical_bar
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-double_vertical_bar.png
+  - name: party-doughnut
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-doughnut.png
+  - name: party-dove_of_peace
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dove_of_peace.png
+  - name: party-dragon_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dragon_face.png
+  - name: party-dragon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dragon.png
+  - name: party-dress
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dress.png
+  - name: party-dromedary_camel
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dromedary_camel.png
+  - name: party-drooling_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-drooling_face.png
+  - name: party-droplet
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-droplet.png
+  - name: party-drum_with_drumsticks
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-drum_with_drumsticks.png
+  - name: party-duck
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-duck.png
+  - name: party-dvd
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-dvd.png
+  - name: party-e-mail
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-e-mail.png
+  - name: party-eagle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-eagle.png
+  - name: party-ear_of_rice
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ear_of_rice.png
+  - name: party-ear
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ear.png
+  - name: party-earth_africa
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-earth_africa.png
+  - name: party-earth_americas
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-earth_americas.png
+  - name: party-earth_asia
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-earth_asia.png
+  - name: party-egg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-egg.png
+  - name: party-eggplant
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-eggplant.png
+  - name: party-eight_pointed_black_star
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-eight_pointed_black_star.png
+  - name: party-eight_spoked_asterisk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-eight_spoked_asterisk.png
+  - name: party-eight
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-eight.png
+  - name: party-electric_plug
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-electric_plug.png
+  - name: party-elephant
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-elephant.png
+  - name: party-email
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-email.png
+  - name: party-end
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-end.png
+  - name: party-envelope_with_arrow
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-envelope_with_arrow.png
+  - name: party-es
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-es.png
+  - name: party-euro
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-euro.png
+  - name: party-european_castle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-european_castle.png
+  - name: party-european_post_office
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-european_post_office.png
+  - name: party-evergreen_tree
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-evergreen_tree.png
+  - name: party-exclamation
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-exclamation.png
+  - name: party-expressionless
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-expressionless.png
+  - name: party-eye
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-eye.png
+  - name: party-eyeglasses
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-eyeglasses.png
+  - name: party-eyes
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-eyes.png
+  - name: party-face_with_cowboy_hat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-face_with_cowboy_hat.png
+  - name: party-face_with_head_bandage
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-face_with_head_bandage.png
+  - name: party-face_with_rolling_eyes
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-face_with_rolling_eyes.png
+  - name: party-face_with_thermometer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-face_with_thermometer.png
+  - name: party-facepunch
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-facepunch.png
+  - name: party-factory
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-factory.png
+  - name: party-fallen_leaf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fallen_leaf.png
+  - name: party-family
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-family.png
+  - name: party-fast_forward
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fast_forward.png
+  - name: party-fax
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fax.png
+  - name: party-fearful
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fearful.png
+  - name: party-feet
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-feet.png
+  - name: party-fencer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fencer.png
+  - name: party-ferris_wheel
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ferris_wheel.png
+  - name: party-ferry
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ferry.png
+  - name: party-field_hockey_stick_and_ball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-field_hockey_stick_and_ball.png
+  - name: party-file_cabinet
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-file_cabinet.png
+  - name: party-file_folder
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-file_folder.png
+  - name: party-film_frames
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-film_frames.png
+  - name: party-film_projector
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-film_projector.png
+  - name: party-fire_engine
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fire_engine.png
+  - name: party-fire
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fire.png
+  - name: party-fireworks
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fireworks.png
+  - name: party-first_place_medal
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-first_place_medal.png
+  - name: party-first_quarter_moon_with_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-first_quarter_moon_with_face.png
+  - name: party-first_quarter_moon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-first_quarter_moon.png
+  - name: party-fish_cake
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fish_cake.png
+  - name: party-fish
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fish.png
+  - name: party-fishing_pole_and_fish
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fishing_pole_and_fish.png
+  - name: party-fist
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fist.png
+  - name: party-five
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-five.png
+  - name: party-flag-ad
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ad.png
+  - name: party-flag-ae
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ae.png
+  - name: party-flag-af
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-af.png
+  - name: party-flag-ag
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ag.png
+  - name: party-flag-ai
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ai.png
+  - name: party-flag-al
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-al.png
+  - name: party-flag-am
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-am.png
+  - name: party-flag-ao
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ao.png
+  - name: party-flag-aq
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-aq.png
+  - name: party-flag-ar
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ar.png
+  - name: party-flag-as
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-as.png
+  - name: party-flag-at
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-at.png
+  - name: party-flag-au
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-au.png
+  - name: party-flag-aw
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-aw.png
+  - name: party-flag-ax
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ax.png
+  - name: party-flag-az
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-az.png
+  - name: party-flag-ba
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ba.png
+  - name: party-flag-bb
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bb.png
+  - name: party-flag-bd
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bd.png
+  - name: party-flag-be
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-be.png
+  - name: party-flag-bf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bf.png
+  - name: party-flag-bg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bg.png
+  - name: party-flag-bh
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bh.png
+  - name: party-flag-bi
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bi.png
+  - name: party-flag-bj
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bj.png
+  - name: party-flag-bl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bl.png
+  - name: party-flag-bm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bm.png
+  - name: party-flag-bn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bn.png
+  - name: party-flag-bo
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bo.png
+  - name: party-flag-bq
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bq.png
+  - name: party-flag-br
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-br.png
+  - name: party-flag-bs
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bs.png
+  - name: party-flag-bt
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bt.png
+  - name: party-flag-bw
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bw.png
+  - name: party-flag-by
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-by.png
+  - name: party-flag-bz
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-bz.png
+  - name: party-flag-ca
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ca.png
+  - name: party-flag-cc
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cc.png
+  - name: party-flag-cd
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cd.png
+  - name: party-flag-cf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cf.png
+  - name: party-flag-cg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cg.png
+  - name: party-flag-ch
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ch.png
+  - name: party-flag-ci
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ci.png
+  - name: party-flag-ck
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ck.png
+  - name: party-flag-cl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cl.png
+  - name: party-flag-cm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cm.png
+  - name: party-flag-co
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-co.png
+  - name: party-flag-cr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cr.png
+  - name: party-flag-cu
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cu.png
+  - name: party-flag-cv
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cv.png
+  - name: party-flag-cw
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cw.png
+  - name: party-flag-cx
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cx.png
+  - name: party-flag-cy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cy.png
+  - name: party-flag-cz
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-cz.png
+  - name: party-flag-dj
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-dj.png
+  - name: party-flag-dk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-dk.png
+  - name: party-flag-dm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-dm.png
+  - name: party-flag-do
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-do.png
+  - name: party-flag-dz
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-dz.png
+  - name: party-flag-ec
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ec.png
+  - name: party-flag-ee
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ee.png
+  - name: party-flag-eg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-eg.png
+  - name: party-flag-eh
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-eh.png
+  - name: party-flag-er
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-er.png
+  - name: party-flag-et
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-et.png
+  - name: party-flag-eu
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-eu.png
+  - name: party-flag-fi
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-fi.png
+  - name: party-flag-fj
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-fj.png
+  - name: party-flag-fk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-fk.png
+  - name: party-flag-fm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-fm.png
+  - name: party-flag-fo
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-fo.png
+  - name: party-flag-ga
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ga.png
+  - name: party-flag-gd
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gd.png
+  - name: party-flag-ge
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ge.png
+  - name: party-flag-gf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gf.png
+  - name: party-flag-gg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gg.png
+  - name: party-flag-gh
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gh.png
+  - name: party-flag-gi
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gi.png
+  - name: party-flag-gl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gl.png
+  - name: party-flag-gm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gm.png
+  - name: party-flag-gn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gn.png
+  - name: party-flag-gp
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gp.png
+  - name: party-flag-gq
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gq.png
+  - name: party-flag-gr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gr.png
+  - name: party-flag-gs
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gs.png
+  - name: party-flag-gt
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gt.png
+  - name: party-flag-gu
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gu.png
+  - name: party-flag-gw
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gw.png
+  - name: party-flag-gy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-gy.png
+  - name: party-flag-hk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-hk.png
+  - name: party-flag-hn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-hn.png
+  - name: party-flag-hr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-hr.png
+  - name: party-flag-ht
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ht.png
+  - name: party-flag-hu
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-hu.png
+  - name: party-flag-ic
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ic.png
+  - name: party-flag-id
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-id.png
+  - name: party-flag-ie
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ie.png
+  - name: party-flag-il
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-il.png
+  - name: party-flag-im
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-im.png
+  - name: party-flag-in
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-in.png
+  - name: party-flag-io
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-io.png
+  - name: party-flag-iq
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-iq.png
+  - name: party-flag-ir
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ir.png
+  - name: party-flag-is
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-is.png
+  - name: party-flag-je
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-je.png
+  - name: party-flag-jm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-jm.png
+  - name: party-flag-jo
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-jo.png
+  - name: party-flag-ke
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ke.png
+  - name: party-flag-kg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-kg.png
+  - name: party-flag-kh
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-kh.png
+  - name: party-flag-ki
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ki.png
+  - name: party-flag-km
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-km.png
+  - name: party-flag-kn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-kn.png
+  - name: party-flag-kp
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-kp.png
+  - name: party-flag-kw
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-kw.png
+  - name: party-flag-ky
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ky.png
+  - name: party-flag-kz
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-kz.png
+  - name: party-flag-la
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-la.png
+  - name: party-flag-lb
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-lb.png
+  - name: party-flag-lc
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-lc.png
+  - name: party-flag-li
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-li.png
+  - name: party-flag-lk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-lk.png
+  - name: party-flag-lr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-lr.png
+  - name: party-flag-ls
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ls.png
+  - name: party-flag-lt
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-lt.png
+  - name: party-flag-lu
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-lu.png
+  - name: party-flag-lv
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-lv.png
+  - name: party-flag-ly
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ly.png
+  - name: party-flag-ma
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ma.png
+  - name: party-flag-mc
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mc.png
+  - name: party-flag-md
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-md.png
+  - name: party-flag-me
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-me.png
+  - name: party-flag-mg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mg.png
+  - name: party-flag-mh
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mh.png
+  - name: party-flag-mk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mk.png
+  - name: party-flag-ml
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ml.png
+  - name: party-flag-mm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mm.png
+  - name: party-flag-mn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mn.png
+  - name: party-flag-mo
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mo.png
+  - name: party-flag-mp
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mp.png
+  - name: party-flag-mq
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mq.png
+  - name: party-flag-mr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mr.png
+  - name: party-flag-ms
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ms.png
+  - name: party-flag-mt
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mt.png
+  - name: party-flag-mu
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mu.png
+  - name: party-flag-mv
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mv.png
+  - name: party-flag-mw
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mw.png
+  - name: party-flag-mx
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mx.png
+  - name: party-flag-my
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-my.png
+  - name: party-flag-mz
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-mz.png
+  - name: party-flag-na
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-na.png
+  - name: party-flag-nc
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-nc.png
+  - name: party-flag-ne
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ne.png
+  - name: party-flag-nf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-nf.png
+  - name: party-flag-ng
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ng.png
+  - name: party-flag-ni
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ni.png
+  - name: party-flag-nl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-nl.png
+  - name: party-flag-no
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-no.png
+  - name: party-flag-np
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-np.png
+  - name: party-flag-nr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-nr.png
+  - name: party-flag-nu
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-nu.png
+  - name: party-flag-nz
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-nz.png
+  - name: party-flag-om
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-om.png
+  - name: party-flag-pa
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pa.png
+  - name: party-flag-pe
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pe.png
+  - name: party-flag-pf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pf.png
+  - name: party-flag-pg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pg.png
+  - name: party-flag-ph
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ph.png
+  - name: party-flag-pk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pk.png
+  - name: party-flag-pl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pl.png
+  - name: party-flag-pm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pm.png
+  - name: party-flag-pn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pn.png
+  - name: party-flag-pr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pr.png
+  - name: party-flag-ps
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ps.png
+  - name: party-flag-pt
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pt.png
+  - name: party-flag-pw
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-pw.png
+  - name: party-flag-py
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-py.png
+  - name: party-flag-qa
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-qa.png
+  - name: party-flag-re
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-re.png
+  - name: party-flag-ro
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ro.png
+  - name: party-flag-rs
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-rs.png
+  - name: party-flag-rw
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-rw.png
+  - name: party-flag-sa
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sa.png
+  - name: party-flag-sb
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sb.png
+  - name: party-flag-sc
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sc.png
+  - name: party-flag-sd
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sd.png
+  - name: party-flag-se
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-se.png
+  - name: party-flag-sg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sg.png
+  - name: party-flag-sh
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sh.png
+  - name: party-flag-si
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-si.png
+  - name: party-flag-sk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sk.png
+  - name: party-flag-sl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sl.png
+  - name: party-flag-sm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sm.png
+  - name: party-flag-sn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sn.png
+  - name: party-flag-so
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-so.png
+  - name: party-flag-sr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sr.png
+  - name: party-flag-ss
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ss.png
+  - name: party-flag-st
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-st.png
+  - name: party-flag-sv
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sv.png
+  - name: party-flag-sx
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sx.png
+  - name: party-flag-sy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sy.png
+  - name: party-flag-sz
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-sz.png
+  - name: party-flag-tc
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tc.png
+  - name: party-flag-td
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-td.png
+  - name: party-flag-tf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tf.png
+  - name: party-flag-tg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tg.png
+  - name: party-flag-th
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-th.png
+  - name: party-flag-tj
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tj.png
+  - name: party-flag-tk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tk.png
+  - name: party-flag-tl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tl.png
+  - name: party-flag-tm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tm.png
+  - name: party-flag-tn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tn.png
+  - name: party-flag-to
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-to.png
+  - name: party-flag-tr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tr.png
+  - name: party-flag-tt
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tt.png
+  - name: party-flag-tv
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tv.png
+  - name: party-flag-tw
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tw.png
+  - name: party-flag-tz
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-tz.png
+  - name: party-flag-ua
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ua.png
+  - name: party-flag-ug
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ug.png
+  - name: party-flag-uy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-uy.png
+  - name: party-flag-uz
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-uz.png
+  - name: party-flag-va
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-va.png
+  - name: party-flag-vc
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-vc.png
+  - name: party-flag-ve
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ve.png
+  - name: party-flag-vg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-vg.png
+  - name: party-flag-vi
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-vi.png
+  - name: party-flag-vn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-vn.png
+  - name: party-flag-vu
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-vu.png
+  - name: party-flag-wf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-wf.png
+  - name: party-flag-ws
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ws.png
+  - name: party-flag-xk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-xk.png
+  - name: party-flag-ye
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-ye.png
+  - name: party-flag-yt
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-yt.png
+  - name: party-flag-za
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-za.png
+  - name: party-flag-zm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-zm.png
+  - name: party-flag-zw
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flag-zw.png
+  - name: party-flags
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flags.png
+  - name: party-flashlight
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flashlight.png
+  - name: party-fleur_de_lis
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fleur_de_lis.png
+  - name: party-floppy_disk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-floppy_disk.png
+  - name: party-flower_playing_cards
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flower_playing_cards.png
+  - name: party-flushed
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-flushed.png
+  - name: party-fog
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fog.png
+  - name: party-foggy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-foggy.png
+  - name: party-football
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-football.png
+  - name: party-footprints
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-footprints.png
+  - name: party-fork_and_knife
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fork_and_knife.png
+  - name: party-fountain
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fountain.png
+  - name: party-four_leaf_clover
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-four_leaf_clover.png
+  - name: party-four
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-four.png
+  - name: party-fox_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fox_face.png
+  - name: party-fr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fr.png
+  - name: party-frame_with_picture
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-frame_with_picture.png
+  - name: party-free
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-free.png
+  - name: party-fried_egg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fried_egg.png
+  - name: party-fried_shrimp
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fried_shrimp.png
+  - name: party-fries
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fries.png
+  - name: party-frog
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-frog.png
+  - name: party-frowning
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-frowning.png
+  - name: party-fuelpump
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-fuelpump.png
+  - name: party-full_moon_with_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-full_moon_with_face.png
+  - name: party-full_moon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-full_moon.png
+  - name: party-funeral_urn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-funeral_urn.png
+  - name: party-game_die
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-game_die.png
+  - name: party-gb
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-gb.png
+  - name: party-gear
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-gear.png
+  - name: party-gem
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-gem.png
+  - name: party-gemini
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-gemini.png
+  - name: party-ghost
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ghost.png
+  - name: party-gift_heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-gift_heart.png
+  - name: party-gift
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-gift.png
+  - name: party-girl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-girl.png
+  - name: party-glass_of_milk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-glass_of_milk.png
+  - name: party-globe_with_meridians
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-globe_with_meridians.png
+  - name: party-goal_net
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-goal_net.png
+  - name: party-goat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-goat.png
+  - name: party-golf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-golf.png
+  - name: party-golfer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-golfer.png
+  - name: party-gorilla
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-gorilla.png
+  - name: party-grapes
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-grapes.png
+  - name: party-green_apple
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-green_apple.png
+  - name: party-green_book
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-green_book.png
+  - name: party-green_heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-green_heart.png
+  - name: party-green_salad
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-green_salad.png
+  - name: party-grey_exclamation
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-grey_exclamation.png
+  - name: party-grey_question
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-grey_question.png
+  - name: party-grimacing
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-grimacing.png
+  - name: party-grin
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-grin.png
+  - name: party-grinning
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-grinning.png
+  - name: party-guardsman
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-guardsman.png
+  - name: party-guitar
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-guitar.png
+  - name: party-gun
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-gun.png
+  - name: party-haircut
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-haircut.png
+  - name: party-hamburger
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hamburger.png
+  - name: party-hammer_and_pick
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hammer_and_pick.png
+  - name: party-hammer_and_wrench
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hammer_and_wrench.png
+  - name: party-hammer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hammer.png
+  - name: party-hamster
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hamster.png
+  - name: party-hand
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hand.png
+  - name: party-handbag
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-handbag.png
+  - name: party-handshake
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-handshake.png
+  - name: party-hankey
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hankey.png
+  - name: party-hash
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hash.png
+  - name: party-hatched_chick
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hatched_chick.png
+  - name: party-hatching_chick
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hatching_chick.png
+  - name: party-headphones
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-headphones.png
+  - name: party-hear_no_evil
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hear_no_evil.png
+  - name: party-heart_decoration
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heart_decoration.png
+  - name: party-heart_eyes_cat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heart_eyes_cat.png
+  - name: party-heart_eyes
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heart_eyes.png
+  - name: party-heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heart.png
+  - name: party-heartbeat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heartbeat.png
+  - name: party-heartpulse
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heartpulse.png
+  - name: party-hearts
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hearts.png
+  - name: party-heavy_check_mark
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heavy_check_mark.png
+  - name: party-heavy_division_sign
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heavy_division_sign.png
+  - name: party-heavy_dollar_sign
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heavy_dollar_sign.png
+  - name: party-heavy_heart_exclamation_mark_ornament
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heavy_heart_exclamation_mark_ornament.png
+  - name: party-heavy_minus_sign
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heavy_minus_sign.png
+  - name: party-heavy_multiplication_x
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heavy_multiplication_x.png
+  - name: party-heavy_plus_sign
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-heavy_plus_sign.png
+  - name: party-helicopter
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-helicopter.png
+  - name: party-helmet_with_white_cross
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-helmet_with_white_cross.png
+  - name: party-herb
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-herb.png
+  - name: party-hibiscus
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hibiscus.png
+  - name: party-high_brightness
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-high_brightness.png
+  - name: party-high_heel
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-high_heel.png
+  - name: party-hocho
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hocho.png
+  - name: party-hole
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hole.png
+  - name: party-honey_pot
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-honey_pot.png
+  - name: party-horse_racing
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-horse_racing.png
+  - name: party-horse
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-horse.png
+  - name: party-hospital
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hospital.png
+  - name: party-hot_pepper
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hot_pepper.png
+  - name: party-hotdog
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hotdog.png
+  - name: party-hotel
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hotel.png
+  - name: party-hotsprings
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hotsprings.png
+  - name: party-hourglass_flowing_sand
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hourglass_flowing_sand.png
+  - name: party-hourglass
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hourglass.png
+  - name: party-house_buildings
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-house_buildings.png
+  - name: party-house_with_garden
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-house_with_garden.png
+  - name: party-house
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-house.png
+  - name: party-hugging_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hugging_face.png
+  - name: party-hushed
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-hushed.png
+  - name: party-ice_cream
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ice_cream.png
+  - name: party-ice_hockey_stick_and_puck
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ice_hockey_stick_and_puck.png
+  - name: party-ice_skate
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ice_skate.png
+  - name: party-icecream
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-icecream.png
+  - name: party-id
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-id.png
+  - name: party-ideograph_advantage
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ideograph_advantage.png
+  - name: party-imp
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-imp.png
+  - name: party-inbox_tray
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-inbox_tray.png
+  - name: party-incoming_envelope
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-incoming_envelope.png
+  - name: party-information_desk_person
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-information_desk_person.png
+  - name: party-information_source
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-information_source.png
+  - name: party-innocent
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-innocent.png
+  - name: party-interrobang
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-interrobang.png
+  - name: party-iphone
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-iphone.png
+  - name: party-it
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-it.png
+  - name: party-izakaya_lantern
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-izakaya_lantern.png
+  - name: party-jack_o_lantern
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-jack_o_lantern.png
+  - name: party-japan
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-japan.png
+  - name: party-japanese_castle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-japanese_castle.png
+  - name: party-japanese_goblin
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-japanese_goblin.png
+  - name: party-japanese_ogre
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-japanese_ogre.png
+  - name: party-jeans
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-jeans.png
+  - name: party-joy_cat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-joy_cat.png
+  - name: party-joy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-joy.png
+  - name: party-joystick
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-joystick.png
+  - name: party-jp
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-jp.png
+  - name: party-kaaba
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-kaaba.png
+  - name: party-key
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-key.png
+  - name: party-keyboard
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-keyboard.png
+  - name: party-keycap_star
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-keycap_star.png
+  - name: party-keycap_ten
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-keycap_ten.png
+  - name: party-kimono
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-kimono.png
+  - name: party-kiss
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-kiss.png
+  - name: party-kissing_cat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-kissing_cat.png
+  - name: party-kissing_closed_eyes
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-kissing_closed_eyes.png
+  - name: party-kissing_heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-kissing_heart.png
+  - name: party-kissing_smiling_eyes
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-kissing_smiling_eyes.png
+  - name: party-kissing
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-kissing.png
+  - name: party-kiwifruit
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-kiwifruit.png
+  - name: party-knife_fork_plate
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-knife_fork_plate.png
+  - name: party-koala
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-koala.png
+  - name: party-koko
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-koko.png
+  - name: party-kr
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-kr.png
+  - name: party-label
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-label.png
+  - name: party-large_blue_circle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-large_blue_circle.png
+  - name: party-large_blue_diamond
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-large_blue_diamond.png
+  - name: party-large_orange_diamond
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-large_orange_diamond.png
+  - name: party-last_quarter_moon_with_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-last_quarter_moon_with_face.png
+  - name: party-last_quarter_moon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-last_quarter_moon.png
+  - name: party-latin_cross
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-latin_cross.png
+  - name: party-laughing
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-laughing.png
+  - name: party-leaves
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-leaves.png
+  - name: party-ledger
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ledger.png
+  - name: party-left_luggage
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-left_luggage.png
+  - name: party-left_right_arrow
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-left_right_arrow.png
+  - name: party-left-facing_fist
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-left-facing_fist.png
+  - name: party-leftwards_arrow_with_hook
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-leftwards_arrow_with_hook.png
+  - name: party-lemon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lemon.png
+  - name: party-leo
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-leo.png
+  - name: party-leopard
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-leopard.png
+  - name: party-level_slider
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-level_slider.png
+  - name: party-libra
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-libra.png
+  - name: party-light_rail
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-light_rail.png
+  - name: party-lightning
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lightning.png
+  - name: party-link
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-link.png
+  - name: party-linked_paperclips
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-linked_paperclips.png
+  - name: party-lion_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lion_face.png
+  - name: party-lips
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lips.png
+  - name: party-lipstick
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lipstick.png
+  - name: party-lizard
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lizard.png
+  - name: party-lock_with_ink_pen
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lock_with_ink_pen.png
+  - name: party-lock
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lock.png
+  - name: party-lollipop
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lollipop.png
+  - name: party-loop
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-loop.png
+  - name: party-loud_sound
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-loud_sound.png
+  - name: party-loudspeaker
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-loudspeaker.png
+  - name: party-love_hotel
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-love_hotel.png
+  - name: party-love_letter
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-love_letter.png
+  - name: party-low_brightness
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-low_brightness.png
+  - name: party-lower_left_ballpoint_pen
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lower_left_ballpoint_pen.png
+  - name: party-lower_left_crayon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lower_left_crayon.png
+  - name: party-lower_left_fountain_pen
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lower_left_fountain_pen.png
+  - name: party-lower_left_paintbrush
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lower_left_paintbrush.png
+  - name: party-lying_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-lying_face.png
+  - name: party-m
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-m.png
+  - name: party-mag_right
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mag_right.png
+  - name: party-mag
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mag.png
+  - name: party-mahjong
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mahjong.png
+  - name: party-mailbox_closed
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mailbox_closed.png
+  - name: party-mailbox_with_mail
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mailbox_with_mail.png
+  - name: party-mailbox_with_no_mail
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mailbox_with_no_mail.png
+  - name: party-mailbox
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mailbox.png
+  - name: party-man_dancing
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-man_dancing.png
+  - name: party-man_in_business_suit_levitating
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-man_in_business_suit_levitating.png
+  - name: party-man_in_tuxedo
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-man_in_tuxedo.png
+  - name: party-man_with_gua_pi_mao
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-man_with_gua_pi_mao.png
+  - name: party-man_with_turban
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-man_with_turban.png
+  - name: party-man
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-man.png
+  - name: party-mans_shoe
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mans_shoe.png
+  - name: party-mantelpiece_clock
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mantelpiece_clock.png
+  - name: party-maple_leaf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-maple_leaf.png
+  - name: party-martial_arts_uniform
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-martial_arts_uniform.png
+  - name: party-mask
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mask.png
+  - name: party-massage
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-massage.png
+  - name: party-meat_on_bone
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-meat_on_bone.png
+  - name: party-medal
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-medal.png
+  - name: party-mega
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mega.png
+  - name: party-melon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-melon.png
+  - name: party-memo
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-memo.png
+  - name: party-menorah_with_nine_branches
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-menorah_with_nine_branches.png
+  - name: party-mens
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mens.png
+  - name: party-metro
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-metro.png
+  - name: party-microphone
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-microphone.png
+  - name: party-microscope
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-microscope.png
+  - name: party-middle_finger
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-middle_finger.png
+  - name: party-milky_way
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-milky_way.png
+  - name: party-minibus
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-minibus.png
+  - name: party-minidisc
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-minidisc.png
+  - name: party-mobile_phone_off
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mobile_phone_off.png
+  - name: party-money_mouth_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-money_mouth_face.png
+  - name: party-money_with_wings
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-money_with_wings.png
+  - name: party-moneybag
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-moneybag.png
+  - name: party-monkey_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-monkey_face.png
+  - name: party-monkey
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-monkey.png
+  - name: party-monorail
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-monorail.png
+  - name: party-moon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-moon.png
+  - name: party-mortar_board
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mortar_board.png
+  - name: party-mosque
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mosque.png
+  - name: party-mostly_sunny
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mostly_sunny.png
+  - name: party-motor_boat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-motor_boat.png
+  - name: party-motor_scooter
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-motor_scooter.png
+  - name: party-motorway
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-motorway.png
+  - name: party-mount_fuji
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mount_fuji.png
+  - name: party-mountain_bicyclist
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mountain_bicyclist.png
+  - name: party-mountain_cableway
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mountain_cableway.png
+  - name: party-mountain_railway
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mountain_railway.png
+  - name: party-mountain
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mountain.png
+  - name: party-mouse
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mouse.png
+  - name: party-mouse2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mouse2.png
+  - name: party-movie_camera
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-movie_camera.png
+  - name: party-moyai
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-moyai.png
+  - name: party-mrs_claus
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mrs_claus.png
+  - name: party-muscle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-muscle.png
+  - name: party-mushroom
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mushroom.png
+  - name: party-musical_keyboard
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-musical_keyboard.png
+  - name: party-musical_note
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-musical_note.png
+  - name: party-musical_score
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-musical_score.png
+  - name: party-mute
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-mute.png
+  - name: party-nail_care
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-nail_care.png
+  - name: party-name_badge
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-name_badge.png
+  - name: party-national_park
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-national_park.png
+  - name: party-nauseated_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-nauseated_face.png
+  - name: party-necktie
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-necktie.png
+  - name: party-negative_squared_cross_mark
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-negative_squared_cross_mark.png
+  - name: party-nerd_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-nerd_face.png
+  - name: party-neutral_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-neutral_face.png
+  - name: party-new_moon_with_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-new_moon_with_face.png
+  - name: party-new_moon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-new_moon.png
+  - name: party-new
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-new.png
+  - name: party-newspaper
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-newspaper.png
+  - name: party-ng
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ng.png
+  - name: party-night_with_stars
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-night_with_stars.png
+  - name: party-nine
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-nine.png
+  - name: party-no_bell
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-no_bell.png
+  - name: party-no_bicycles
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-no_bicycles.png
+  - name: party-no_entry_sign
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-no_entry_sign.png
+  - name: party-no_entry
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-no_entry.png
+  - name: party-no_good
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-no_good.png
+  - name: party-no_mobile_phones
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-no_mobile_phones.png
+  - name: party-no_mouth
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-no_mouth.png
+  - name: party-no_pedestrians
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-no_pedestrians.png
+  - name: party-no_smoking
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-no_smoking.png
+  - name: party-non-potable_water
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-non-potable_water.png
+  - name: party-nose
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-nose.png
+  - name: party-notebook_with_decorative_cover
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-notebook_with_decorative_cover.png
+  - name: party-notebook
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-notebook.png
+  - name: party-notes
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-notes.png
+  - name: party-nut_and_bolt
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-nut_and_bolt.png
+  - name: party-o
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-o.png
+  - name: party-o2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-o2.png
+  - name: party-ocean
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ocean.png
+  - name: party-octagonal_sign
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-octagonal_sign.png
+  - name: party-octopus
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-octopus.png
+  - name: party-oden
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-oden.png
+  - name: party-office
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-office.png
+  - name: party-oil_drum
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-oil_drum.png
+  - name: party-ok_hand
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ok_hand.png
+  - name: party-ok_woman
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ok_woman.png
+  - name: party-ok
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ok.png
+  - name: party-old_key
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-old_key.png
+  - name: party-older_man
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-older_man.png
+  - name: party-older_woman
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-older_woman.png
+  - name: party-om_symbol
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-om_symbol.png
+  - name: party-on
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-on.png
+  - name: party-oncoming_automobile
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-oncoming_automobile.png
+  - name: party-oncoming_bus
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-oncoming_bus.png
+  - name: party-oncoming_police_car
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-oncoming_police_car.png
+  - name: party-oncoming_taxi
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-oncoming_taxi.png
+  - name: party-one
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-one.png
+  - name: party-open_file_folder
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-open_file_folder.png
+  - name: party-open_hands
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-open_hands.png
+  - name: party-open_mouth
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-open_mouth.png
+  - name: party-ophiuchus
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ophiuchus.png
+  - name: party-orange_book
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-orange_book.png
+  - name: party-orthodox_cross
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-orthodox_cross.png
+  - name: party-outbox_tray
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-outbox_tray.png
+  - name: party-owl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-owl.png
+  - name: party-ox
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ox.png
+  - name: party-package
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-package.png
+  - name: party-page_facing_up
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-page_facing_up.png
+  - name: party-page_with_curl
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-page_with_curl.png
+  - name: party-pager
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pager.png
+  - name: party-palm_tree
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-palm_tree.png
+  - name: party-pancakes
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pancakes.png
+  - name: party-panda_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-panda_face.png
+  - name: party-paperclip
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-paperclip.png
+  - name: party-parking
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-parking.png
+  - name: party-part_alternation_mark
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-part_alternation_mark.png
+  - name: party-partly_sunny_rain
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-partly_sunny_rain.png
+  - name: party-partly_sunny
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-partly_sunny.png
+  - name: party-passenger_ship
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-passenger_ship.png
+  - name: party-passport_control
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-passport_control.png
+  - name: party-peace_symbol
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-peace_symbol.png
+  - name: party-peach
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-peach.png
+  - name: party-peanuts
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-peanuts.png
+  - name: party-pear
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pear.png
+  - name: party-pencil2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pencil2.png
+  - name: party-penguin
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-penguin.png
+  - name: party-pensive
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pensive.png
+  - name: party-performing_arts
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-performing_arts.png
+  - name: party-persevere
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-persevere.png
+  - name: party-person_frowning
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-person_frowning.png
+  - name: party-person_with_ball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-person_with_ball.png
+  - name: party-person_with_blond_hair
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-person_with_blond_hair.png
+  - name: party-person_with_pouting_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-person_with_pouting_face.png
+  - name: party-phone
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-phone.png
+  - name: party-pick
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pick.png
+  - name: party-pig_nose
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pig_nose.png
+  - name: party-pig
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pig.png
+  - name: party-pig2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pig2.png
+  - name: party-pill
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pill.png
+  - name: party-pineapple
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pineapple.png
+  - name: party-pisces
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pisces.png
+  - name: party-pizza
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pizza.png
+  - name: party-place_of_worship
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-place_of_worship.png
+  - name: party-point_down
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-point_down.png
+  - name: party-point_left
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-point_left.png
+  - name: party-point_right
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-point_right.png
+  - name: party-point_up_2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-point_up_2.png
+  - name: party-point_up
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-point_up.png
+  - name: party-police_car
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-police_car.png
+  - name: party-poodle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-poodle.png
+  - name: party-popcorn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-popcorn.png
+  - name: party-post_office
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-post_office.png
+  - name: party-postal_horn
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-postal_horn.png
+  - name: party-postbox
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-postbox.png
+  - name: party-potable_water
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-potable_water.png
+  - name: party-potato
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-potato.png
+  - name: party-pouch
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pouch.png
+  - name: party-poultry_leg
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-poultry_leg.png
+  - name: party-pound
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pound.png
+  - name: party-pouting_cat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pouting_cat.png
+  - name: party-pray
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pray.png
+  - name: party-prayer_beads
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-prayer_beads.png
+  - name: party-pregnant_woman
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pregnant_woman.png
+  - name: party-prince
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-prince.png
+  - name: party-princess
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-princess.png
+  - name: party-printer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-printer.png
+  - name: party-purple_heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-purple_heart.png
+  - name: party-purse
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-purse.png
+  - name: party-pushpin
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-pushpin.png
+  - name: party-put_litter_in_its_place
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-put_litter_in_its_place.png
+  - name: party-question
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-question.png
+  - name: party-rabbit
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rabbit.png
+  - name: party-rabbit2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rabbit2.png
+  - name: party-racehorse
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-racehorse.png
+  - name: party-racing_car
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-racing_car.png
+  - name: party-racing_motorcycle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-racing_motorcycle.png
+  - name: party-radio_button
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-radio_button.png
+  - name: party-radio
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-radio.png
+  - name: party-radioactive_sign
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-radioactive_sign.png
+  - name: party-rage
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rage.png
+  - name: party-railway_car
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-railway_car.png
+  - name: party-railway_track
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-railway_track.png
+  - name: party-rain_cloud
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rain_cloud.png
+  - name: party-rainbow
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rainbow.png
+  - name: party-raised_back_of_hand
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-raised_back_of_hand.png
+  - name: party-raised_hand_with_fingers_splayed
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-raised_hand_with_fingers_splayed.png
+  - name: party-raised_hands
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-raised_hands.png
+  - name: party-raising_hand
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-raising_hand.png
+  - name: party-ram
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ram.png
+  - name: party-ramen
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ramen.png
+  - name: party-rat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rat.png
+  - name: party-recycle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-recycle.png
+  - name: party-red_circle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-red_circle.png
+  - name: party-registered
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-registered.png
+  - name: party-relaxed
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-relaxed.png
+  - name: party-relieved
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-relieved.png
+  - name: party-reminder_ribbon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-reminder_ribbon.png
+  - name: party-repeat_one
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-repeat_one.png
+  - name: party-repeat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-repeat.png
+  - name: party-restroom
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-restroom.png
+  - name: party-revolving_hearts
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-revolving_hearts.png
+  - name: party-rewind
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rewind.png
+  - name: party-rhinoceros
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rhinoceros.png
+  - name: party-ribbon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ribbon.png
+  - name: party-rice_ball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rice_ball.png
+  - name: party-rice_cracker
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rice_cracker.png
+  - name: party-rice_scene
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rice_scene.png
+  - name: party-rice
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rice.png
+  - name: party-right_anger_bubble
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-right_anger_bubble.png
+  - name: party-right-facing_fist
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-right-facing_fist.png
+  - name: party-ring
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ring.png
+  - name: party-robot_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-robot_face.png
+  - name: party-rocket
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rocket.png
+  - name: party-rolled_up_newspaper
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rolled_up_newspaper.png
+  - name: party-roller_coaster
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-roller_coaster.png
+  - name: party-rolling_on_the_floor_laughing
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rolling_on_the_floor_laughing.png
+  - name: party-rooster
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rooster.png
+  - name: party-rose
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rose.png
+  - name: party-rosette
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rosette.png
+  - name: party-rotating_light
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rotating_light.png
+  - name: party-round_pushpin
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-round_pushpin.png
+  - name: party-rowboat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rowboat.png
+  - name: party-ru
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ru.png
+  - name: party-rugby_football
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-rugby_football.png
+  - name: party-runner
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-runner.png
+  - name: party-running_shirt_with_sash
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-running_shirt_with_sash.png
+  - name: party-sa
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sa.png
+  - name: party-sagittarius
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sagittarius.png
+  - name: party-sake
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sake.png
+  - name: party-sandal
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sandal.png
+  - name: party-santa
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-santa.png
+  - name: party-satellite_antenna
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-satellite_antenna.png
+  - name: party-satellite
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-satellite.png
+  - name: party-saxophone
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-saxophone.png
+  - name: party-scales
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-scales.png
+  - name: party-school_satchel
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-school_satchel.png
+  - name: party-school
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-school.png
+  - name: party-scissors
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-scissors.png
+  - name: party-scooter
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-scooter.png
+  - name: party-scorpion
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-scorpion.png
+  - name: party-scorpius
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-scorpius.png
+  - name: party-scream_cat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-scream_cat.png
+  - name: party-scream
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-scream.png
+  - name: party-scroll
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-scroll.png
+  - name: party-seat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-seat.png
+  - name: party-second_place_medal
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-second_place_medal.png
+  - name: party-secret
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-secret.png
+  - name: party-see_no_evil
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-see_no_evil.png
+  - name: party-seedling
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-seedling.png
+  - name: party-selfie
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-selfie.png
+  - name: party-seven
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-seven.png
+  - name: party-shallow_pan_of_food
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shallow_pan_of_food.png
+  - name: party-shamrock
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shamrock.png
+  - name: party-shark
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shark.png
+  - name: party-shaved_ice
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shaved_ice.png
+  - name: party-sheep
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sheep.png
+  - name: party-shell
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shell.png
+  - name: party-shield
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shield.png
+  - name: party-shinto_shrine
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shinto_shrine.png
+  - name: party-ship
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ship.png
+  - name: party-shirt
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shirt.png
+  - name: party-shopping_bags
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shopping_bags.png
+  - name: party-shopping_trolley
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shopping_trolley.png
+  - name: party-shower
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shower.png
+  - name: party-shrimp
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-shrimp.png
+  - name: party-signal_strength
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-signal_strength.png
+  - name: party-six_pointed_star
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-six_pointed_star.png
+  - name: party-six
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-six.png
+  - name: party-ski
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ski.png
+  - name: party-skier
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-skier.png
+  - name: party-skull_and_crossbones
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-skull_and_crossbones.png
+  - name: party-skull
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-skull.png
+  - name: party-sleeping_accommodation
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sleeping_accommodation.png
+  - name: party-sleeping
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sleeping.png
+  - name: party-sleepy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sleepy.png
+  - name: party-sleuth_or_spy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sleuth_or_spy.png
+  - name: party-slightly_frowning_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-slightly_frowning_face.png
+  - name: party-slightly_smiling_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-slightly_smiling_face.png
+  - name: party-slot_machine
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-slot_machine.png
+  - name: party-small_airplane
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-small_airplane.png
+  - name: party-small_blue_diamond
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-small_blue_diamond.png
+  - name: party-small_orange_diamond
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-small_orange_diamond.png
+  - name: party-small_red_triangle_down
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-small_red_triangle_down.png
+  - name: party-small_red_triangle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-small_red_triangle.png
+  - name: party-smile_cat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-smile_cat.png
+  - name: party-smile
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-smile.png
+  - name: party-smiley_cat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-smiley_cat.png
+  - name: party-smiley
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-smiley.png
+  - name: party-smiling_imp
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-smiling_imp.png
+  - name: party-smirk_cat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-smirk_cat.png
+  - name: party-smirk
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-smirk.png
+  - name: party-smoking
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-smoking.png
+  - name: party-snail
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-snail.png
+  - name: party-snake
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-snake.png
+  - name: party-sneezing_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sneezing_face.png
+  - name: party-snow_capped_mountain
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-snow_capped_mountain.png
+  - name: party-snow_cloud
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-snow_cloud.png
+  - name: party-snowboarder
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-snowboarder.png
+  - name: party-snowflake
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-snowflake.png
+  - name: party-snowman_without_snow
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-snowman_without_snow.png
+  - name: party-snowman
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-snowman.png
+  - name: party-sob
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sob.png
+  - name: party-soccer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-soccer.png
+  - name: party-soon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-soon.png
+  - name: party-sos
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sos.png
+  - name: party-sound
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sound.png
+  - name: party-space_invader
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-space_invader.png
+  - name: party-spades
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-spades.png
+  - name: party-spaghetti
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-spaghetti.png
+  - name: party-sparkle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sparkle.png
+  - name: party-sparkler
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sparkler.png
+  - name: party-sparkles
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sparkles.png
+  - name: party-sparkling_heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sparkling_heart.png
+  - name: party-speak_no_evil
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-speak_no_evil.png
+  - name: party-speaker
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-speaker.png
+  - name: party-speaking_head_in_silhouette
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-speaking_head_in_silhouette.png
+  - name: party-speech_balloon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-speech_balloon.png
+  - name: party-speedboat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-speedboat.png
+  - name: party-spider_web
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-spider_web.png
+  - name: party-spider
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-spider.png
+  - name: party-spiral_calendar_pad
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-spiral_calendar_pad.png
+  - name: party-spiral_note_pad
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-spiral_note_pad.png
+  - name: party-spock-hand
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-spock-hand.png
+  - name: party-spoon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-spoon.png
+  - name: party-sports_medal
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sports_medal.png
+  - name: party-squid
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-squid.png
+  - name: party-stadium
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-stadium.png
+  - name: party-star_and_crescent
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-star_and_crescent.png
+  - name: party-star_of_david
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-star_of_david.png
+  - name: party-star
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-star.png
+  - name: party-star2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-star2.png
+  - name: party-stars
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-stars.png
+  - name: party-station
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-station.png
+  - name: party-statue_of_liberty
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-statue_of_liberty.png
+  - name: party-steam_locomotive
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-steam_locomotive.png
+  - name: party-stew
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-stew.png
+  - name: party-stopwatch
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-stopwatch.png
+  - name: party-straight_ruler
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-straight_ruler.png
+  - name: party-strawberry
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-strawberry.png
+  - name: party-stuck_out_tongue_closed_eyes
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-stuck_out_tongue_closed_eyes.png
+  - name: party-stuck_out_tongue_winking_eye
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-stuck_out_tongue_winking_eye.png
+  - name: party-stuck_out_tongue
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-stuck_out_tongue.png
+  - name: party-studio_microphone
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-studio_microphone.png
+  - name: party-stuffed_flatbread
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-stuffed_flatbread.png
+  - name: party-sun_with_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sun_with_face.png
+  - name: party-sunflower
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sunflower.png
+  - name: party-sunglasses
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sunglasses.png
+  - name: party-sunny
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sunny.png
+  - name: party-sunrise_over_mountains
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sunrise_over_mountains.png
+  - name: party-sunrise
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sunrise.png
+  - name: party-surfer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-surfer.png
+  - name: party-sushi
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sushi.png
+  - name: party-suspension_railway
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-suspension_railway.png
+  - name: party-sweat_drops
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sweat_drops.png
+  - name: party-sweat_smile
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sweat_smile.png
+  - name: party-sweat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sweat.png
+  - name: party-sweet_potato
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-sweet_potato.png
+  - name: party-swimmer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-swimmer.png
+  - name: party-symbols
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-symbols.png
+  - name: party-synagogue
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-synagogue.png
+  - name: party-syringe
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-syringe.png
+  - name: party-table_tennis_paddle_and_ball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-table_tennis_paddle_and_ball.png
+  - name: party-taco
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-taco.png
+  - name: party-tada
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tada.png
+  - name: party-tanabata_tree
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tanabata_tree.png
+  - name: party-tangerine
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tangerine.png
+  - name: party-taurus
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-taurus.png
+  - name: party-taxi
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-taxi.png
+  - name: party-tea
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tea.png
+  - name: party-telephone_receiver
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-telephone_receiver.png
+  - name: party-telescope
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-telescope.png
+  - name: party-tennis
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tennis.png
+  - name: party-tent
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tent.png
+  - name: party-the_horns
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-the_horns.png
+  - name: party-thermometer
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-thermometer.png
+  - name: party-thinking_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-thinking_face.png
+  - name: party-third_place_medal
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-third_place_medal.png
+  - name: party-thought_balloon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-thought_balloon.png
+  - name: party-three_button_mouse
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-three_button_mouse.png
+  - name: party-three
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-three.png
+  - name: party-thunder_cloud_and_rain
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-thunder_cloud_and_rain.png
+  - name: party-ticket
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-ticket.png
+  - name: party-tiger
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tiger.png
+  - name: party-tiger2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tiger2.png
+  - name: party-timer_clock
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-timer_clock.png
+  - name: party-tired_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tired_face.png
+  - name: party-tm
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tm.png
+  - name: party-toilet
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-toilet.png
+  - name: party-tokyo_tower
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tokyo_tower.png
+  - name: party-tomato
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tomato.png
+  - name: party-tongue
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tongue.png
+  - name: party-top
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-top.png
+  - name: party-tophat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tophat.png
+  - name: party-tornado
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tornado.png
+  - name: party-trackball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-trackball.png
+  - name: party-tractor
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tractor.png
+  - name: party-traffic_light
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-traffic_light.png
+  - name: party-train
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-train.png
+  - name: party-train2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-train2.png
+  - name: party-tram
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tram.png
+  - name: party-triangular_flag_on_post
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-triangular_flag_on_post.png
+  - name: party-triangular_ruler
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-triangular_ruler.png
+  - name: party-trident
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-trident.png
+  - name: party-triumph
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-triumph.png
+  - name: party-trolleybus
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-trolleybus.png
+  - name: party-trophy
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-trophy.png
+  - name: party-tropical_drink
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tropical_drink.png
+  - name: party-tropical_fish
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tropical_fish.png
+  - name: party-truck
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-truck.png
+  - name: party-trumpet
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-trumpet.png
+  - name: party-tulip
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tulip.png
+  - name: party-tumbler_glass
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tumbler_glass.png
+  - name: party-turkey
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-turkey.png
+  - name: party-turtle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-turtle.png
+  - name: party-tv
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-tv.png
+  - name: party-twisted_rightwards_arrows
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-twisted_rightwards_arrows.png
+  - name: party-two_hearts
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-two_hearts.png
+  - name: party-two_men_holding_hands
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-two_men_holding_hands.png
+  - name: party-two_women_holding_hands
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-two_women_holding_hands.png
+  - name: party-two
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-two.png
+  - name: party-u5272
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u5272.png
+  - name: party-u5408
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u5408.png
+  - name: party-u55b6
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u55b6.png
+  - name: party-u6307
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u6307.png
+  - name: party-u6708
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u6708.png
+  - name: party-u6709
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u6709.png
+  - name: party-u6e80
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u6e80.png
+  - name: party-u7121
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u7121.png
+  - name: party-u7533
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u7533.png
+  - name: party-u7981
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u7981.png
+  - name: party-u7a7a
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-u7a7a.png
+  - name: party-umbrella_on_ground
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-umbrella_on_ground.png
+  - name: party-umbrella_with_rain_drops
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-umbrella_with_rain_drops.png
+  - name: party-umbrella
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-umbrella.png
+  - name: party-unamused
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-unamused.png
+  - name: party-underage
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-underage.png
+  - name: party-unicorn_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-unicorn_face.png
+  - name: party-unlock
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-unlock.png
+  - name: party-up
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-up.png
+  - name: party-upside_down_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-upside_down_face.png
+  - name: party-us
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-us.png
+  - name: party-v
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-v.png
+  - name: party-vertical_traffic_light
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-vertical_traffic_light.png
+  - name: party-vhs
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-vhs.png
+  - name: party-vibration_mode
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-vibration_mode.png
+  - name: party-video_camera
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-video_camera.png
+  - name: party-video_game
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-video_game.png
+  - name: party-violin
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-violin.png
+  - name: party-virgo
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-virgo.png
+  - name: party-volcano
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-volcano.png
+  - name: party-volleyball
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-volleyball.png
+  - name: party-vs
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-vs.png
+  - name: party-walking
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-walking.png
+  - name: party-waning_crescent_moon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-waning_crescent_moon.png
+  - name: party-waning_gibbous_moon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-waning_gibbous_moon.png
+  - name: party-warning
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-warning.png
+  - name: party-wastebasket
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wastebasket.png
+  - name: party-watch
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-watch.png
+  - name: party-water_buffalo
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-water_buffalo.png
+  - name: party-watermelon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-watermelon.png
+  - name: party-wave
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wave.png
+  - name: party-waving_black_flag
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-waving_black_flag.png
+  - name: party-waving_white_flag
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-waving_white_flag.png
+  - name: party-wavy_dash
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wavy_dash.png
+  - name: party-waxing_crescent_moon
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-waxing_crescent_moon.png
+  - name: party-wc
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wc.png
+  - name: party-weary
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-weary.png
+  - name: party-wedding
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wedding.png
+  - name: party-weight_lifter
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-weight_lifter.png
+  - name: party-whale
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-whale.png
+  - name: party-whale2
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-whale2.png
+  - name: party-wheel_of_dharma
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wheel_of_dharma.png
+  - name: party-wheelchair
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wheelchair.png
+  - name: party-white_check_mark
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-white_check_mark.png
+  - name: party-white_circle
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-white_circle.png
+  - name: party-white_flower
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-white_flower.png
+  - name: party-white_frowning_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-white_frowning_face.png
+  - name: party-white_large_square
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-white_large_square.png
+  - name: party-white_medium_small_square
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-white_medium_small_square.png
+  - name: party-white_medium_square
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-white_medium_square.png
+  - name: party-white_small_square
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-white_small_square.png
+  - name: party-white_square_button
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-white_square_button.png
+  - name: party-wilted_flower
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wilted_flower.png
+  - name: party-wind_blowing_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wind_blowing_face.png
+  - name: party-wind_chime
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wind_chime.png
+  - name: party-wine_glass
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wine_glass.png
+  - name: party-wink
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wink.png
+  - name: party-wolf
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wolf.png
+  - name: party-woman
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-woman.png
+  - name: party-womans_clothes
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-womans_clothes.png
+  - name: party-womans_hat
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-womans_hat.png
+  - name: party-womens
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-womens.png
+  - name: party-world_map
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-world_map.png
+  - name: party-worried
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-worried.png
+  - name: party-wrench
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-wrench.png
+  - name: party-writing_hand
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-writing_hand.png
+  - name: party-x
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-x.png
+  - name: party-yellow_heart
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-yellow_heart.png
+  - name: party-yen
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-yen.png
+  - name: party-yin_yang
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-yin_yang.png
+  - name: party-yum
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-yum.png
+  - name: party-zap
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-zap.png
+  - name: party-zero
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-zero.png
+  - name: party-zipper_mouth_face
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-zipper_mouth_face.png
+  - name: party-zzz
+    src: https://raw.githubusercontent.com/aendrew/party-everything/master/emoji/party-zzz.png

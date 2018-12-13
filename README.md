@@ -1446,6 +1446,24 @@ This is literally every single emoji done with a
 $ npx party-everything input.png output.png
 ```
 
+## Add them all to Slack?!!!?!
+*Note:* I've not tried this, have not tested it, think it's a terrible idea, 
+and take no responsibility whatsoever if this breaks your Slack and/or makes all your colleagues hate you.
+
+```
+$ git clone git@github.com:aendrew/party-everything.git
+$ cd party-everything
+$ npm install
+$ npm run import-slack # Follow the instructions at the prompts
+```
+
+## Changelog
+
+- 1.0.1: Added emojipack support
+- 1.0.0: Added partyizer
+- Pre-1.0.0: Added emoji
+
+
 ## Todo
 
 - Improve automatic naming
