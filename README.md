@@ -9,6 +9,12 @@ This is literally every single emoji done with a
 |-------------------|-----------|
 | :party--1: | ![:party--1:](./emoji/party--1.png) |
 | :party-+1: | ![:party-+1:](./emoji/party-+1.png) |
+
+<details>
+  <summary>Expand to see all</summary>
+
+|     shortcode     |  preview  |
+|-------------------|-----------|
 | :party-100: | ![:party-100:](./emoji/party-100.png) |
 | :party-1234: | ![:party-1234:](./emoji/party-1234.png) |
 | :party-1F3C3-2640: | ![:party-1F3C3-2640:](./emoji/party-1F3C3-2640.png) |
@@ -1439,6 +1445,8 @@ This is literally every single emoji done with a
 | :party-zero: | ![:party-zero:](./emoji/party-zero.png) |
 | :party-zipper_mouth_face: | ![:party-zipper_mouth_face:](./emoji/party-zipper_mouth_face.png) |
 | :party-zzz: | ![:party-zzz:](./emoji/party-zzz.png) |
+
+</details>
 
 ## Create your own!
 
